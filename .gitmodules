@@ -1,0 +1,3 @@
+[submodule "src/YDLidar/YDLidar-SDK"]
+	path = src/YDLidar/YDLidar-SDK
+	url = https://github.com/syi03109/project_slam_.git
